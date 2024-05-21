@@ -1,0 +1,20 @@
+h2, h1 {
+	text-align: center;
+}
+div {
+	color: white;
+	padding: 30px;
+	margin: 20px;
+	display: inline-block;
+	text-align: center;
+}
+
+#heath  {
+	background-color: gray;
+}
+.center {
+	text-align: center;
+}
+html {
+   background-color: gold;
+}
